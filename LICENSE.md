@@ -1,4 +1,5 @@
 The Froala Editor Craft CMS plugin License
+
 Copyright (c) 2016 Bert Oost (bertoost)
 
 This package is including a version of the Froala Editor. But it is not including a license for it. You need to purchase a license for the editor itself via www.froala.com.
