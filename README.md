@@ -1,5 +1,6 @@
-# Craft-FroalaEditor
-The implementation of the Froala Editor (license not included) for Craft CMS
+# Froala WYSIWYG HTML Rich Text Editor for Craft CMS v2
+
+The implementation of the Froala Editor (license not included) for Craft CMS v2.
 
 ## Installation
 
