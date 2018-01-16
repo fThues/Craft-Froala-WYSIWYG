@@ -1,0 +1,14 @@
+{
+  "name": "froala/craft-froala-editor",
+  "description": "Craft CMS (v2) plugin for Froala WYSIWYG HTML Rich Text Editor.",
+  "type": "craft-plugin",
+  "authors": [
+    {
+      "name": "Bert Oost",
+      "email": "hello@bertoost.com"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
