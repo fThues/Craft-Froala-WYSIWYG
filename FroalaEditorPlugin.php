@@ -1,6 +1,6 @@
 <?php
 /**
- * Froala Editor for Craft
+ * Froala WYSIWYG Editor for Craft
  *
  * @package froalaeditor
  * @author Bert Oost
@@ -15,7 +15,7 @@ class FroalaEditorPlugin extends BasePlugin
      */
     public function getName()
     {
-        return 'Froala Editor';
+        return Craft::t('Froala WYSIWYG Editor');
     }
 
     /**
@@ -23,15 +23,7 @@ class FroalaEditorPlugin extends BasePlugin
      */
     public function getVersion()
     {
-        return '2.7.0';
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getSchemaVersion()
-    {
-        return '1.0.0';
+        return '2.2.7.0';
     }
 
     /**
@@ -39,7 +31,7 @@ class FroalaEditorPlugin extends BasePlugin
      */
     public function getReleaseFeedUrl()
     {
-        return 'https://raw.githubusercontent.com/froala/Craft-Froala-WYSIWYG/master/releases.json';
+        return 'https://raw.githubusercontent.com/froala/Craft-Froala-WYSIWYG/v2/releases.json';
     }
 
     /**
@@ -63,7 +55,7 @@ class FroalaEditorPlugin extends BasePlugin
      */
     public function getDocumentationUrl()
     {
-        return 'https://github.com/froala/Craft-Froala-WYSIWYG/blob/master/README.md';
+        return 'https://github.com/froala/Craft-Froala-WYSIWYG/blob/v2/README.md';
     }
 
     /**

@@ -1,7 +1,16 @@
 [
   {
+    "version": "2.2.7.0",
+    "downloadUrl": "https://github.com/froala/Craft-Froala-WYSIWYG/archive/v2.2.7.0.zip",
+    "date": "2018-01-16T19:30:00+01:00",
+    "notes": [
+      "Updated version number to be prefixed with v2 for Craft CMS v2",
+      "Some repository changes are made. No changes to the contents of the plugin."
+    ]
+  },
+  {
     "version": "2.7.0",
-    "downloadUrl": "https://github.com/froala/Craft-Froala-WYSIWYG/archive/master.zip",
+    "downloadUrl": "https://github.com/froala/Craft-Froala-WYSIWYG/archive/v2.7.0.zip",
     "date": "2017-10-13T012:15:00+01:00",
     "notes": [
       "[Added] Composer support for Craft 2. Using composer installers package.",
@@ -9,9 +18,10 @@
       "[Improved] Using Froala Editor version for the plugin version",
       "[Improved] Updated Froala Editor from v2.4.1 to v2.7.0 (thank to @Rias500)"
     ]
-  },{
+  },
+  {
     "version": "1.0.4",
-    "downloadUrl": "https://github.com/froala/Craft-Froala-WYSIWYG/archive/master.zip",
+    "downloadUrl": "https://github.com/froala/Craft-Froala-WYSIWYG/archive/v1.0.4.zip",
     "date": "2017-01-31T08:00:00+01:00",
     "notes": [
       "[Fixed] Enabled plugins passed as lower camelcase names instead of underscored.",
@@ -19,17 +29,19 @@
       "[Added] Support for custom CSS classes and stylesheet file (plugin-wide and per field setting).",
       "[Added] Custom theme to make editr in style of Craft CMS."
     ]
-  },{
+  },
+  {
     "version": "1.0.3",
-    "downloadUrl": "https://github.com/froala/Craft-Froala-WYSIWYG/archive/master.zip",
+    "downloadUrl": "https://github.com/froala/Craft-Froala-WYSIWYG/archive/v1.0.3.zip",
     "date": "2017-01-02T11:00:00+01:00",
     "notes": [
       "[Fixed] Database column type set to TEXT instead of VARCHAR. Will be fixed for fields after update (migration).",
       "[Added] Documentation URL"
     ]
-  },{
+  },
+  {
     "version": "1.0.2",
-    "downloadUrl": "https://github.com/froala/Craft-Froala-WYSIWYG/archive/master.zip",
+    "downloadUrl": "https://github.com/froala/Craft-Froala-WYSIWYG/archive/v1.0.2.zip",
     "date": "2016-12-15T21:15:00+01:00",
     "notes": [
       "[Fixed] Edit existing link in edito via Craft's link entry modal",
@@ -37,16 +49,18 @@
       "[Added] Added support for using image transforms in image replace modal [#3 lboaretto]",
       "[Added] Support for control + save to save the entry"
     ]
-  },{
+  },
+  {
     "version": "1.0.1",
-    "downloadUrl": "https://github.com/froala/Craft-Froala-WYSIWYG/archive/master.zip",
+    "downloadUrl": "https://github.com/froala/Craft-Froala-WYSIWYG/archive/v1.0.1.zip",
     "date": "2016-12-12T14:40:00+01:00",
     "notes": [
       "[Added] Updated Froala Editor to v2.4.0"
     ]
-  },{
+  },
+  {
     "version": "1.0.0",
-    "downloadUrl": "https://github.com/froala/Craft-Froala-WYSIWYG/archive/master.zip",
+    "downloadUrl": "https://github.com/froala/Craft-Froala-WYSIWYG/archive/v1.0.0.zip",
     "date": "2016-12-11T14:00:00+01:00",
     "notes": [
       "[Added] Initial release"
